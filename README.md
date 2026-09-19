@@ -1,6 +1,5 @@
 # Reyhane.info organization profile
 
-این مخزن فقط فایل‌های عمومی پروفایل GitHub سازمان `reyhane-info` را نگهداری می‌کند.
+This repository contains the public GitHub organization profile and related community assets for `reyhane-info`.
 
-محتوای نمایشی صفحهٔ سازمان در [profile/README.md](profile/README.md) قرار دارد.
-
+The organization overview is defined in [profile/README.md](profile/README.md).
