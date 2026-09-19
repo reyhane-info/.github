@@ -2,7 +2,7 @@
   <img src="./assets/organization-cover.svg" width="100%" alt="Reyhane.info — Media, Technology and Experience">
 </p>
 
-<h1 align="center">Reyhane Al-Nabi Organization</h1>
+<h1 align="center">Reyhane.info</h1>
 
 <p align="center">
   An integrated digital platform for managing, publishing, and experiencing religious media.
@@ -72,5 +72,5 @@ Private repositories do not mean inactive projects. The platform is developed, t
 ---
 
 <p align="center">
-  Built with care for the long-term preservation and delivery of ceremony media.
+  Crate By Khadem Imam Hossein
 </p>
