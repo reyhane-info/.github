@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/cover.svg" width="100%" alt="Reyhane.info — Media, Technology and Experience">
+  <img src="./assets/organization-cover.svg" width="100%" alt="Reyhane.info — Media, Technology and Experience">
 </p>
 
 <h1 align="center">Reyhane Al-Nabi Organization</h1>
@@ -74,4 +74,3 @@ Private repositories do not mean inactive projects. The platform is developed, t
 <p align="center">
   Built with care for the long-term preservation and delivery of ceremony media.
 </p>
-
