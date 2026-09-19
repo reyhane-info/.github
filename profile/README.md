@@ -2,10 +2,6 @@
   <img src="./assets/cover.svg" width="100%" alt="Reyhane.info — Media, Technology and Experience">
 </p>
 
-<p align="center">
-  <img src="https://github.com/reyhane-info.png?size=180" width="108" height="108" alt="نشان هیأت ریحانة النبی">
-</p>
-
 <h1 align="center">هیأت ریحانة النبی سلام‌الله‌علیها</h1>
 
 <p align="center" dir="rtl">
@@ -85,4 +81,3 @@
 <p align="center" dir="rtl">
   ساخته‌شده با دقت، احترام و نگاه بلندمدت به حفظ محتوای مراسم
 </p>
-
